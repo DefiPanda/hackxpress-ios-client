@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0178E4F6-8BFB-4D64-ACAD-64A0EE04D9FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hackxpress-ios-client</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A3AABDF-58A8-4F59-94B9-B33432BC120B</key>
+		<string>https://github.com/jw2013/hackxpress-ios-client.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hackxpress-ios-client.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A3AABDF-58A8-4F59-94B9-B33432BC120B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jw2013/hackxpress-ios-client.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A3AABDF-58A8-4F59-94B9-B33432BC120B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A3AABDF-58A8-4F59-94B9-B33432BC120B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hackxpress-ios-client</string>
+		</dict>
+	</array>
+</dict>
+</plist>
